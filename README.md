@@ -6,12 +6,12 @@
 ### 强化学习
 #### model-free
 DQN: [Playing Atari with Deep Reinforcement Learning(Nature)](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(Nature).pdf)  
-&ensp;&ensp;&nbsp;[Playing Atari with Deep Reinforcement Learning(ICML)](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
+     [Playing Atari with Deep Reinforcement Learning(ICML)](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
 DDPG: [Deterministic policy gradient algorithms(前序工作)](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Deterministic%20policy%20gradient%20algorithms.pdf)  
-&ensp;&ensp;&ensp;[Continuous control with deep reinforcement learning](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Continuous%20control%20with%20deep%20reinforcement%20learning.pdf)  
+      [Continuous control with deep reinforcement learning](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Continuous%20control%20with%20deep%20reinforcement%20learning.pdf)  
 A3C: [Asynchronous methods for deep reinforcement learning](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Asynchronous%20methods%20for%20deep%20reinforcement%20learning.pdf)  
 TRPO: [Approximately optimal approximate reinforcement learning(前序工作)](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Approximately%20optimal%20approximate%20reinforcement%20learning.pdf)  
-&ensp;&ensp;&ensp;[Trust region policy optimization](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Trust%20region%20policy%20optimization.pdf)  
+      [Trust region policy optimization](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Trust%20region%20policy%20optimization.pdf)  
 PPO: [Proximal policy optimization algorithms](https://github.com/YangShengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Proximal%20policy%20optimization%20algorithms.pdf)  
 
 #### hierachical reinforcement learning
