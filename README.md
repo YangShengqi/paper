@@ -5,7 +5,8 @@
 
 ### 强化学习
 #### model-free
-DQN: [Playing Atari with Deep Reinforcement Learning(Nature)](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
+<<<<<<< HEAD
+DQN: [Human-level control through deep reinforcement learning(Nature)](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
      [Playing Atari with Deep Reinforcement Learning(ICML)](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
 DPG: [Deterministic policy gradient algorithms](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Deterministic%20policy%20gradient%20algorithms.pdf)  
 DDPG: [Continuous control with deep reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Continuous%20control%20with%20deep%20reinforcement%20learning.pdf)  
@@ -20,3 +21,4 @@ temporal abstraction: [Between MDPs and semi-MDPs: A framework for temporal abst
 h-DQN: [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Hierarchical%20Deep%20Reinforcement%20Learning:%0AIntegrating%20Temporal%20Abstraction%20and%0AIntrinsic%20Motivation.pdf)  
 OC: [The Option-Critic Architecture](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/The%20Option-Critic%20Architecture.pdf)    
 A2OC: [When Waiting is not an Option  Learning Options with a Deliberation Cost](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/When%20Waiting%20is%20not%20an%20Option%20%20Learning%20Options%20with%20a%20Deliberation%20Cost.pdf)  
+
