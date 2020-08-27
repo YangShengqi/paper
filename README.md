@@ -5,7 +5,6 @@
 
 ### 强化学习
 #### model-free
-<<<<<<< HEAD
 DQN: [Human-level control through deep reinforcement learning(Nature)](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
      [Playing Atari with Deep Reinforcement Learning(ICML)](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
 DPG: [Deterministic policy gradient algorithms](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Deterministic%20policy%20gradient%20algorithms.pdf)  
