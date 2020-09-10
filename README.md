@@ -22,4 +22,6 @@ A2OC: [When Waiting is not an Option  Learning Options with a Deliberation Cost]
 Feudal: [Feudal Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Feudal%Reinforcement%20Learning.pdf)  
 FuNs: [FeUdal Networks for Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/FeUdal%20Networks%20for%20Hierarchical%20Reinforcement%20Learning.pdf)  
 h-DQN: [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Hierarchical%20Deep%20Reinforcement%20Learning:%0AIntegrating%20Temporal%20Abstraction%20and%0AIntrinsic%20Motivation.pdf)  
-
+HAM: [Reinforcement Learning with Hierarchies of Machines](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/Reinforcement%20Learning%20with%20Hierarchies%20of%20Machines.pdf)  
+MAXQ: [The MAXQ Method for Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/The%20MAXQ%20Method%20for%20Hierarchical%20Reinforcement%20Learning.pdf)  
+  
