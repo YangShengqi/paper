@@ -26,7 +26,7 @@ HAM: [Reinforcement Learning with Hierarchies of Machines](https://gitee.com/yan
 MAXQ: [The MAXQ Method for Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/The%20MAXQ%20Method%20for%20Hierarchical%20Reinforcement%20Learning.pdf)  
 UVFA: [Universal Value Function Approximators](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Universal%20Value%20Function%20Approximators.pdf)  
 HER: [Hindsight Experience Replay](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Hindsight%20Experience%20Replay.pdf) 
-HAC: [Learning Multi-Level Hierachies with Hindsight](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Learning%20Multi-Level%20Hierachies%20with%20Hindsight.pdf)  
+HAC: [Learning Multi-Level Hierachies with Hindsight](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Learning%20Multi-Level%20Hierachies%20with%20Hindsight.pdf)   
 HIRO: [Data-Efficient Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/hierachical%20reinforcement%20learning/Data-Efficient%20Hierarchical%20Reinforcement%20Learning.pdf)  
  
 
