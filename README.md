@@ -1,9 +1,6 @@
 保存一些自己看过的论文
 
-### 火控相关(中文)
-知网上的中文论文，涉及火控、威胁评估、制导律、多机协同等
-
-### 强化学习
+### Reinforcement Learning
 #### model-free
 DQN: [Human-level control through deep reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
      [Playing Atari with Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
