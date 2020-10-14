@@ -30,6 +30,9 @@ UVFA: [Universal Value Function Approximators](https://gitee.com/yangshengqi/pap
 HER: [Hindsight Experience Replay](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Hindsight%20Experience%20Replay.pdf)   
 HAC: [Learning Multi-Level Hierachies with Hindsight](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Learning%20Multi-Level%20Hierachies%20with%20Hindsight.pdf)   
 HIRO: [Data-Efficient Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Data-Efficient%20Hierarchical%20Reinforcement%20Learning.pdf)  
+SC: [Skill Discovery in Continuous Reinforcement Learning Domains using Skill Chaining]()  
+DCS: [Option Discovery Using Deep Skill Chaining]()  
+
 
  
 
