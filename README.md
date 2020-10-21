@@ -31,7 +31,7 @@ HER: [Hindsight Experience Replay](https://gitee.com/yangshengqi/paper/blob/mast
 HAC: [Learning Multi-Level Hierachies with Hindsight](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Learning%20Multi-Level%20Hierachies%20with%20Hindsight.pdf)   
 HIRO: [Data-Efficient Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Data-Efficient%20Hierarchical%20Reinforcement%20Learning.pdf)  
 SC: [Skill Discovery in Continuous Reinforcement Learning Domains using Skill Chaining](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Skill%20Discovery%20in%20Continuous%20Reinforcement%0ALearning%20Domains%20using%20Skill%20Chaining.pdf)  
-DCS: [Option Discovery Using Deep Skill Chaining](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Option%20Discovery%20Using%20Deep%20Skill%20Chaining.pdf)  
+DSC: [Option Discovery Using Deep Skill Chaining](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Option%20Discovery%20Using%20Deep%20Skill%20Chaining.pdf)  
 IB: [Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Reinforcement%20Learning%20with%20Competitive%20Ensembles%20of%20Information-Constrained%20Primitives.pdf)  
 
 
