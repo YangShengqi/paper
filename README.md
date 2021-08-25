@@ -38,6 +38,11 @@ DIAYN: [Diversity Is All You Need: Learning Skills Without A Reward Function](ht
 VIM: [Variational Information Maximisation for
 Intrinsically Motivated Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Variational%20Information%20Maximisation%20for%0AIntrinsically%20Motivated%20Reinforcement%20Learning.pdf)  
 
+#### multi-agent
+综述: [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/A%20Survey%20and%20Critique%20of%20Multiagent%20Deep%20Reinforcement%20Learning.pdf)  
+RIAL/DIAL: [Learning to Communicate with Deep Multi-agent Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20to%20communicate%20with%20deep%20multi-agent%20reinforcement%20learning.pdf)  
+CommNet: [Learning Multiagent Communication with Backpropagation](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20Multiagent%20Communication%20with%20Backpropagation.pdf)  
+
 
 
  
