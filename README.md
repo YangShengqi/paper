@@ -42,6 +42,8 @@ Intrinsically Motivated Reinforcement Learning](https://gitee.com/yangshengqi/pa
 综述: [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/A%20Survey%20and%20Critique%20of%20Multiagent%20Deep%20Reinforcement%20Learning.pdf)  
 RIAL/DIAL: [Learning to Communicate with Deep Multi-agent Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20to%20communicate%20with%20deep%20multi-agent%20reinforcement%20learning.pdf)  
 CommNet: [Learning Multiagent Communication with Backpropagation](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20Multiagent%20Communication%20with%20Backpropagation.pdf)  
+[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Emergence%20of%20Grounded%20Compositional%20Language%20in%20Multi-Agent%20Populations.pdf)  
+BiCNet: [Multiagent Bidirectionally-Coordinated Nets](https://gitee.com/yangshengqi/paper/blob/master/Multiagent%20Bidirectionally-Coordinated%20Nets.pdf)  
 
 
 
