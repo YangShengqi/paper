@@ -1,13 +1,12 @@
 保存一些自己看过的论文，github下载速度慢，下载链接自动跳转到gitee库
 
-### Reinforcement Learning
-#### book
+### Book
 [Reinforcement Learning: An Introduction (Richard S. Sutton 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/Reinforcement%20Learning:%20An%20Introduction.pdf)  
 [Spinning Up Documentation](https://gitee.com/yangshengqi/paper/blob/master/Book/Spinning%20Up%20Documentation.pdf)  
 [博弈论基础 (Robert Gibbons 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/博弈论基础.pdf)  
 [动态合作博弈 (高红伟 彼得罗相 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/动态合作博弈.pdf)  
   
-
+### Reinforcement Learning
 #### Model-Free
 DQN: [Human-level control through deep reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
      [Playing Atari with Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
