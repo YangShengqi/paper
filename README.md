@@ -3,12 +3,12 @@
 ### Reinforcement Learning
 #### book
 [Reinforcement Learning: An Introduction (Richard S. Sutton 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/Reinforcement%20Learning:%20An%20Introduction.pdf)  
-[Spinning Up Documentation](https://gitee.com/yangshengqi/paper/blob/master/Book/Spinning%20Up%20Documentation.pdf)
-[博弈论基础 (Robert Gibbons 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/博弈论基础.pdf)
-[动态合作博弈 (高红伟 彼得罗相 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/动态合作博弈.pdf)
+[Spinning Up Documentation](https://gitee.com/yangshengqi/paper/blob/master/Book/Spinning%20Up%20Documentation.pdf)  
+[博弈论基础 (Robert Gibbons 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/博弈论基础.pdf)  
+[动态合作博弈 (高红伟 彼得罗相 著)](https://gitee.com/yangshengqi/paper/blob/master/Book/动态合作博弈.pdf)  
   
 
-#### model-free
+#### Model-Free
 DQN: [Human-level control through deep reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Human-level%20control%20through%20deep%20reinforcement%20learning(Nature).pdf)  
      [Playing Atari with Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning(ICML).pdf)  
 DPG: [Deterministic policy gradient algorithms](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Deterministic%20policy%20gradient%20algorithms.pdf)  
@@ -19,7 +19,7 @@ TRPO: [Approximately optimal approximate reinforcement learning(前序工作)](h
       [Trust region policy optimization](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Trust%20region%20policy%20optimization.pdf)  
 PPO: [Proximal policy optimization algorithms](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/model-free/Proximal%20policy%20optimization%20algorithms.pdf)  
 
-#### hierachical reinforcement learning
+#### Hierachical Reinforcement Learning
 HAM: [Reinforcement Learning with Hierarchies of Machines](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Reinforcement%20Learning%20with%20Hierarchies%20of%20Machines.pdf)  
 MAXQ: [The MAXQ Method for Hierarchical Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/The%20MAXQ%20Method%20for%20Hierarchical%20Reinforcement%20Learning.pdf)  
 Option: [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Between%20MDPs%20and%20semi-MDPs:%20A%20framework%20for%20temporal%20abstraction%20in%20reinforcement%20learning.pdf)  
@@ -41,19 +41,21 @@ DIAYN: [Diversity Is All You Need: Learning Skills Without A Reward Function](ht
 VIM: [Variational Information Maximisation for
 Intrinsically Motivated Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/hierarchical/Variational%20Information%20Maximisation%20for%0AIntrinsically%20Motivated%20Reinforcement%20Learning.pdf)  
 
-#### multi-agent
+#### Multi-Agent
 综述: [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/A%20Survey%20and%20Critique%20of%20Multiagent%20Deep%20Reinforcement%20Learning.pdf)  
 RIAL/DIAL: [Learning to Communicate with Deep Multi-agent Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20to%20communicate%20with%20deep%20multi-agent%20reinforcement%20learning.pdf)  
 CommNet: [Learning Multiagent Communication with Backpropagation](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Learning%20Multiagent%20Communication%20with%20Backpropagation.pdf)  
 [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Emergence%20of%20Grounded%20Compositional%20Language%20in%20Multi-Agent%20Populations.pdf)  
 BiCNet: [Multiagent Bidirectionally-Coordinated Nets](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Multiagent%20Bidirectionally-Coordinated%20Nets.pdf)  
-Experience Replay with Fingerprint: [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Stabilising%20Experience%20Replay%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
-Parameter Sharing: [Cooperative Multi-Agent Control Using Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Cooperative%20Multi-Agent%20Control%20Using%20Deep%20Reinforcement%20Learning.pdf)
-Lenient-DQN: [Lenient Multi-Agent Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Lenient%20Multi-Agent%20Deep%20Reinforcement%20Learning.pdf)
-MADDPG: [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Multi-agent%20actor-critic%20for%20mixed%20cooperative-competitive%20environments.pdf)
-Learning Shared Representations for Value Functions: [Learning shared representations in multi-task reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Learning%20shared%20representations%20in%20multi-task%20reinforcement%20learning.pdf)
-Progressive Neural Networks: [Progressive Neural Networks](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Progressive%20neural%20networks.pdf)
-PathNet: [Pathnet-Evolution Channels Gradient Descent in Super Neural Networks](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Pathnet-Evolution%20channels%20gradient%20descent%20in%20super%20neural%20networks.pdf)
+Experience Replay with Fingerprint: [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Stabilising%20Experience%20Replay%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)  
+Parameter Sharing: [Cooperative Multi-Agent Control Using Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Cooperative%20Multi-Agent%20Control%20Using%20Deep%20Reinforcement%20Learning.pdf)  
+Lenient-DQN: [Lenient Multi-Agent Deep Reinforcement Learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Lenient%20Multi-Agent%20Deep%20Reinforcement%20Learning.pdf)  
+MADDPG: [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-agent/Multi-agent%20actor-critic%20for%20mixed%20cooperative-competitive%20environments.pdf)  
+
+####Multi-Task
+Learning Shared Representations: [Learning Shared Representations in Multi-Task Reinforcement learning](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Learning%20shared%20representations%20in%20multi-task%20reinforcement%20learning.pdf)  
+Progressive Neural Networks: [Progressive Neural Networks](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Progressive%20neural%20networks.pdf)  
+PathNet: [Pathnet-Evolution Channels Gradient Descent in Super Neural Networks](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/Pathnet-Evolution%20channels%20gradient%20descent%20in%20super%20neural%20networks.pdf)  
 Gato: [A Generalist Agent](https://gitee.com/yangshengqi/paper/blob/master/Reinforcement%20Learning/multi-task/A%20Generalist%20Agent.pdf)
 
 
